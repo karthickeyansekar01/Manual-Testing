@@ -1,0 +1,89 @@
+Manual testing basics
+-----------------------
+
+Day1:
+
+Examples of defects in software
+------------------------------------
+
+Payment getting stuck
+Payment amount deducted but not completed
+Button not working
+Navigations not working
+
+Software testing:
+Its a process of evaluvating a software if meeting specified requirements or functionalities.
+
+
+Day2:
+----
+Types of defects
+-----
+1.functional defects:
+Impacting functionality of application/product/software
+
+non functional defects:
+
+2.Performance(time consumng or loading or users increasing and gettng hanged) eg: website loading or payment processing pending
+
+3.Usablity defect: app navgation is poor and not working fine n navigation
+
+4.Security defect:hacking account admin and payment details and stealing money -->malware(which runs background to steal data and passwords from phone)
+
+5.Documentation defect:defects found on documents artefacts (requirement doc,design doc,test plan, test design). While reviewing we can raise it
+
+6.Maintainence defect: defects are raised during maintainence pahse after developing and deployment.
+
+Defects can occur in all 4 phases:
+1.requirement
+2.Design 
+3.Build
+4.Integration issue(issue bw 2 app ola and map integration not proper- we cant track properly)
+5.Testing limitation: during testing phase when time taken will be 10 days and only 3 days given only main scenarios can be tested and which can lead to not testing all scenarios can lead to missing hidden defects)
+
+6.Environmental defects: 
+Microsoft server issue, hvd disconnected and app bugs 
+
+Errors/defect(Bugs)/Failure:
+
+Error: dev made a mistake is called error
+Defects: due to dev made mistake it causes defects/bugs
+Failure(faulty): due to defects the status of application is called as faulty.
+
+QA vs QC
+
+Before vs after build testing and fixing
+
+QA:
+Are we building correct product?
+ process oriented and preventive approach before building product during sprint testing
+
+QC: 
+If correct product is built?
+product oriented and corrective approach and once found a bug we need to get fixed from developer and then correct bugs.
+
+
+SDLC:
+
+1.Requirement gathering
+2.Analysis
+3.Design
+4.Implementation
+5.Testing
+6.Deployment
+7.Maintainence
+
+Day 3: tues
+-------------
+Spiral model: you can keep on evolving iterations ,until good product is got.
+
+Planning(req gath.) ->risk analysis(risk analysis,prototype) ->engineering(coding,testing)->evaluvation(can we deploy or not?)
+
+Scrum process:
+
+Check agile class after 30mins in recording.
+
+
+
+
+
